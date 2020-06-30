@@ -5,7 +5,7 @@
 
 | Checkbox | ID  | Problem Name | Online Judge | Difficulty |
 |---|:---:|:---:|---|---|
-|<ul><li>- [x] Done</li></ul>|1|[Pashmak and Graph](http://codeforces.com/problemset/problem/459/E)|Codeforces|5|
+:white_check_mark: Done</li></ul>|1|[Pashmak and Graph](http://codeforces.com/problemset/problem/459/E)|Codeforces|5|
 |<ul><li>- [ ] Done</li></ul>|2|[Civilization](http://codeforces.com/problemset/problem/455/C)|Codeforces|5|
 |<ul><li>- [ ] Done</li></ul>|3|[Sereja and Brackets](http://codeforces.com/problemset/problem/380/C)|Codeforces|5|
 |<ul><li>- [ ] Done</li></ul>|4|[Propagating tree](http://codeforces.com/problemset/problem/383/C)|Codeforces|5|
